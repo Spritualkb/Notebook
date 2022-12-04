@@ -559,14 +559,6 @@ git clone
 
 
 
-gitkey
-
-```
-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
-```
-
-
-
 **将本地项目发送至gitee上**
 
 在gitee上新建一个仓库
